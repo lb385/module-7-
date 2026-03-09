@@ -14,4 +14,4 @@ USER myuser
 
 ENTRYPOINT ["python", "main.py"]
 
-CMD ["--url", "http://github.com/kaw393939"]
+CMD ["--url", "https://github.com/lb385/module-7-.git"]
